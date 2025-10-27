@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="[https://files.catbox.moe/ch0iuj.jpg](https://files.catbox.moe/ch0iuj.jpg)" width="100%" alt="banner" />
+  <img src="https://files.catbox.moe/ch0iuj.jpg" width="100%" alt="banner" />
 </p>
 
 <h1 align="center">hi, i'm dep 👋</h1>
