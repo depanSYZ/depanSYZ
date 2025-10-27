@@ -36,7 +36,7 @@ const dep = {<br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=depanSYZ&theme=tokyonight&hide_border=true" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Developer_Level-A%2B-success?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Developer_Level-B%2B-success?style=for-the-badge&logo=github" />
 </p>
 
 ---
