@@ -1,13 +1,8 @@
-
 <p align="center">
   <img src="https://files.catbox.moe/ch0iuj.jpg" width="100%" alt="banner" />
 </p>
-
 <h1 align="center">hi, i'm dep 👋</h1>
-
-<p align="center">
-  <em>anak smp yang lagi belajar ngoding, pengin jadi developer beneran suatu hari nanti.</em>
-</p>
+<p align="center"><em>anak smp yang lagi belajar ngoding, pengin jadi developer beneran suatu hari nanti.</em></p>
 
 ---
 
@@ -16,25 +11,41 @@
 - kadang ngerusak kode sendiri biar bisa belajar dari error  
 - pengin ngerti gimana sistem besar kayak GitHub bisa dibuat  
 
-```js
-const dep = {
-  nama: "dep",
-  umur: "masih smp",
-  fokus: ["javascript", "node.js", "telegram bot api"],
-  motto: "semua orang mulai dari nol, termasuk aku."
+<p align="center">
+<code>
+const dep = {<br>
+&nbsp;&nbsp;nama: "dep",<br>
+&nbsp;&nbsp;umur: "masih smp",<br>
+&nbsp;&nbsp;fokus: ["javascript", "node.js", "telegram bot api"],<br>
+&nbsp;&nbsp;motto: "semua orang mulai dari nol, termasuk aku."<br>
 }
-```
+</code>
+</p>
 
 ---
 
 ### ⚡ github stats
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dep&show_icons=true&theme=github_dark" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dep&layout=compact&theme=github_dark" />
+  <img src="https://github-profile-trophy.vercel.app/?username=depanSYZ&theme=radical&no-frame=true&margin-w=10" />
+</p>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=depanSYZ&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=depanSYZ&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=depanSYZ&theme=tokyonight&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Developer_Level-A%2B-success?style=for-the-badge&logo=github" />
 </p>
 
+---
+
+### 🎧 now playing
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dep&theme=github-dark-blue" />
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=31bqumg7vjbv3qf7z6ghy7sppvda&redirect=true">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31bqumg7vjbv3qf7z6ghy7sppvda&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true" alt="Spotify Now Playing" />
+  </a>
 </p>
 
 ---
@@ -50,4 +61,10 @@ telegram: [@dep](https://t.me/depstorereal)
 
 <p align="center">
   <sub>thanks for visiting my profile — made with patience, caffeine, and a lot of errors :)</sub>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=00FF9F&center=true&vCenter=true&width=500&lines=console.log(%22Hello+World!%22);keep+learning+keep+coding;never+stop+creating+💻" alt="Typing Animation" />
 </p>
