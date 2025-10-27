@@ -15,7 +15,7 @@
 <code>
 const dep = {<br>
 &nbsp;&nbsp;nama: "dep",<br>
-&nbsp;&nbsp;umur: "masih smp",<br>
+&nbsp;&nbsp;status : "smp",<br>
 &nbsp;&nbsp;fokus: ["javascript", "node.js", "telegram bot api"],<br>
 &nbsp;&nbsp;motto: "semua orang mulai dari nol, termasuk aku."<br>
 }
@@ -41,11 +41,9 @@ const dep = {<br>
 
 ---
 
-### 🎧 now playing
+### 💻 coding
 <p align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=31bqumg7vjbv3qf7z6ghy7sppvda&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31bqumg7vjbv3qf7z6ghy7sppvda&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true" alt="Spotify Now Playing" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=depanSYZ&theme=tokyo-night" alt="Coding Activity Graph" />
 </p>
 
 ---
